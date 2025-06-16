@@ -25,7 +25,6 @@ class Student extends Object{
                 ", sex=" + sex +
                 '}';
     }
-
 //无参构造器
     public Student() {
     }
