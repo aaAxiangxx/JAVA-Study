@@ -51,6 +51,7 @@ class Student extends Object{
         this.age = age;
     }
 
+
     public char getSex() {
         return sex;
     }
