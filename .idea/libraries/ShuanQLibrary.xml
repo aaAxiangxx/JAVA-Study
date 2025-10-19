@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ShuanQLibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day09-01-file-io/lib/ShuanQLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
